@@ -1,12 +1,5 @@
+# this is an example task file
 tasks:
-  - name: ukol 1
-    command: touch "soubor 1"
-  - name: ukol 2
-    command: touch "soubor 2"
-  - name: ukol 3
-    command: touch "soubor 3"
-  - name: ukol 4
-    command: touch "soubor 4"
-  - name: ukol 5
-    command: touch "soubor 5"
-
+  - name: sample task # name of the task
+  - command: echo "hello from the sample task!"
+  - output: true # this field is optional
