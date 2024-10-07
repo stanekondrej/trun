@@ -1,5 +1,5 @@
 # this is an example task file
 tasks:
   - name: sample task # name of the task
-  - command: echo "hello from the sample task!"
-  - output: true # this field is optional
+    command: echo "hello from the sample task!"
+    output: true # this field is optional
