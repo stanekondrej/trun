@@ -1,0 +1,6 @@
+tasks:
+  - name: target 1
+    command: echo 1
+    output: true
+  - name: target 2
+    command: echofsdfasdf
