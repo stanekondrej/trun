@@ -1,6 +1,12 @@
 tasks:
-  - name: target 1
-    command: echo 1
-    output: true
-  - name: target 2
-    command: echofsdfasdf
+  - name: ukol 1
+    command: touch "soubor 1"
+  - name: ukol 2
+    command: touch "soubor 2"
+  - name: ukol 3
+    command: touch "soubor 3"
+  - name: ukol 4
+    command: touch "soubor 4"
+  - name: ukol 5
+    command: touch "soubor 5"
+

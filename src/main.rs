@@ -59,4 +59,6 @@ fn main() {
             println!("Failed to join thread: {why:?}");
         };
     }
+
+    println!("All tasks finished");
 }
